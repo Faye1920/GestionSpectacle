@@ -1,0 +1,7 @@
+12345;Ice Follies;23.0;38
+23456;Daniel Boucher;45.0;18
+34567;Linda Lemay;54.0;20
+45678;Sex Pistols;64.0;67
+56789;La Chicane;58.0;53
+67890;Eric Lapointe;56.0;34
+78901;Daniel Lemire;65.0;44
